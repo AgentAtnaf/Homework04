@@ -1,0 +1,15 @@
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\mdt211_2565_assignment4.exe
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\mdt211_2565_assignment4.deps.json
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\mdt211_2565_assignment4.runtimeconfig.json
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\mdt211_2565_assignment4.dll
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\ref\mdt211_2565_assignment4.dll
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\bin\Debug\net6.0\mdt211_2565_assignment4.pdb
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.csproj.AssemblyReference.cache
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.AssemblyInfoInputs.cache
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.AssemblyInfo.cs
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.dll
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\ref\mdt211_2565_assignment4.dll
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.pdb
+C:\Users\fanta\Desktop\homework4\mdt211_2565_assignment4\obj\Debug\net6.0\mdt211_2565_assignment4.genruntimeconfig.cache
